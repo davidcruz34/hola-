@@ -1,0 +1,2 @@
+git remote add origin https://github.com/davidcruz34/hola-.git
+git push -u origin master
